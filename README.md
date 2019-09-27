@@ -2,14 +2,16 @@
 
 <b>Purpose:</b>
 
-->
+-> Created functioning clock using vanilla JavaScript w/CSS styling
 
 <b>Experience:</b> 
+- Had trouble intially with clock hand rotation. *cubic-bezier for the win also*
 
 ---
 
 <b>Possible Improvements:</b>
-
+- Add numerals to clock face.
+- Improve styling on clock edge.
 
 ---
 
