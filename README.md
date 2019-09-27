@@ -5,7 +5,7 @@
 -> Created functioning clock using vanilla JavaScript w/CSS styling
 
 <b>Experience:</b> 
-- Had trouble intially with clock hand rotation. *cubic-bezier for the win also*
+- Had trouble intially with clock hand rotation.
 
 ---
 
