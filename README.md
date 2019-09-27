@@ -22,4 +22,4 @@
 
 
 
-<i><small>Original project from JavaScript30</small></i>
+<small><i>Original project from JavaScript30</i></small>
