@@ -52,3 +52,5 @@
     .hand second-hand {
         transform: rotate(120deg);
     }
+
+    /*apply ticking effect for minute and hour, maybe make the animation slower as the time increases.*/
