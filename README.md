@@ -1,8 +1,8 @@
 # JS-CSS-Clock
 ---
 ![cssClock](https://media.giphy.com/media/d7YwPIPCy5t2ZiPA08/giphy.gif)
-<b>Purpose:</b>
 
+**Purpose:**
 Create functioning clock using vanilla JavaScript and CSS styling
 
 ---
