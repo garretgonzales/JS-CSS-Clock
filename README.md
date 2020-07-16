@@ -1,27 +1,17 @@
 # JS-CSS-Clock
-
+---
+![cssClock](https://media.giphy.com/media/d7YwPIPCy5t2ZiPA08/giphy.gif)
 <b>Purpose:</b>
 
--> Created functioning clock using vanilla JavaScript w/CSS styling
-
-<b>Experience:</b> 
-- Had trouble intially with clock hand rotation.
+Create functioning clock using vanilla JavaScript and CSS styling
 
 ---
+**Technologies:**
+Pure JavaScript, HTML5, and CSS. No additional libraries used.
 
-<b>Possible Improvements:</b>
-- Add numerals to clock face.
-- Improve styling on clock edge.
+***
 
----
-
-<b>Difficulty (1-10):</b>
-
-
----
-
-<b>Notes:</b>
-
-
-
-<small><i>Original project from JavaScript30</i></small>
+<b>Future Updates:</b>
+- [ ] Add numerals to clock face.
+- [ ] Improve styling on clock edge.
+- [ ] Add Digital clock toggle.
